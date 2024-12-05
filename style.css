@@ -1,0 +1,185 @@
+body{
+    background-color: #D9A22D;
+    margin: 0px;
+}
+.container{
+    width: 1660px;
+    height: auto;
+    margin: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+*{
+    box-sizing: border-box;
+}
+.header-box a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    color: black;  
+
+}
+.header-box a:hover{
+   color: chocolate;
+   transition: .5s;
+}
+.header-flex{
+    display: flex;
+justify-content: space-evenly;
+align-items: center;
+    
+}
+.header-box2 img{
+    display: flex;
+    justify-content: center;
+}
+.header-box2 svg{
+    text-decoration: none;
+}
+.header-box2{
+    display: flex;
+    align-items: center;
+}
+.header-box4 img{
+    display: flex;
+   
+    
+}
+.header-box4{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+.header-box span{
+    font-size: 20px;
+    margin: 20px;
+}
+.header-box2{
+    font-size: 20px;
+}
+.header-box5 span{
+    display: flex;
+    font-size: 40px;
+    margin-left: 750px;
+}
+.buy{
+    
+    background-color: aliceblue;
+    width: 540px;
+    height: 177px;
+    border-radius: 20px;
+    margin-top: -20px;
+    padding-top: 19px;
+    padding-right: 56px;
+    padding-left: 56px;
+}
+.red-text{
+color: brown;
+font-size: 30px;
+
+}
+.grey-text-friend{
+    
+    text-decoration: line-through;
+   font-size: 18px;
+}
+.header-box8{
+    display: flex;
+    
+}
+.header-box9{
+    font-size: 20px;
+}
+.header-box10{
+margin-top: 10px;
+}
+.header-flex7{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.header-box6 img{
+    width: 540px; 
+    height: 577px;
+}
+.header-flex6{
+display: flex;
+}
+.header-flex7{
+    margin-top: 20px;
+}
+.gram{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.hero-text{
+    
+    
+}
+.title{
+    display:flex ;
+    font-size: 30px;
+    justify-content: center;
+}
+.text{
+    font-size: 20px;
+}
+.hero-span span{
+    font-size: 25px;
+    padding: 7px;
+    border-bottom: 1px solid #000;
+}
+.hero-span {
+    display: flex;
+    align-items: center;
+    
+}
+.footer{
+    background-color: black;
+    height: 410px;
+}
+.img{
+    margin-top: 40px;
+}
+.img img{
+    margin-top: 40px;
+}
+.title-span{
+    margin-top: 20px;
+    color: white;
+    font-size: 30px;
+}
+.title-number{
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+}
+.img2{
+    margin-top: 20px;
+}
+.img3{
+    display: flex;
+}
+.footer-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-box2{
+    
+}
+.img3 span{
+    font-size: 20px;
+    color: white;
+}
+.footer-box3{
+    font-size: 50px;
+    color: white;
+}
+.footer-button1 {
+   height: 60px;
+   width: 150px;
+    background-color: #D9A22D;
+    border-radius: 10px;
+}
+.footer-button1:hover{
+    
+}
